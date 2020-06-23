@@ -172,6 +172,7 @@ body {
       .nav-btn::after {
         transform: translateY(1rem); } }
 
+
 /*.sidebar{
   background-color: $color-primary;
   grid-column: sidebar-start / sidebar-end;
