@@ -133,6 +133,7 @@ body {
 .mb-hg {
   margin-bottom: 8rem; }
 
+
 .sidebar {
   background-color: #c69963;
   grid-column: sidebar-start / sidebar-end;
